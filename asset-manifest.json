@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/coming-soon/static/css/main.ffd3f62c.chunk.css",
-    "main.js": "/coming-soon/static/js/main.bff69ce2.chunk.js",
-    "main.js.map": "/coming-soon/static/js/main.bff69ce2.chunk.js.map",
-    "runtime-main.js": "/coming-soon/static/js/runtime-main.7af92772.js",
-    "runtime-main.js.map": "/coming-soon/static/js/runtime-main.7af92772.js.map",
-    "static/js/2.f10ab0e1.chunk.js": "/coming-soon/static/js/2.f10ab0e1.chunk.js",
-    "static/js/2.f10ab0e1.chunk.js.map": "/coming-soon/static/js/2.f10ab0e1.chunk.js.map",
-    "index.html": "/coming-soon/index.html",
-    "precache-manifest.0c0481e2251d7a489f985028d9045799.js": "/coming-soon/precache-manifest.0c0481e2251d7a489f985028d9045799.js",
-    "service-worker.js": "/coming-soon/service-worker.js",
-    "static/css/main.ffd3f62c.chunk.css.map": "/coming-soon/static/css/main.ffd3f62c.chunk.css.map",
-    "static/js/2.f10ab0e1.chunk.js.LICENSE.txt": "/coming-soon/static/js/2.f10ab0e1.chunk.js.LICENSE.txt",
-    "static/media/fonts.css": "/coming-soon/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
-    "static/media/github.baf48a32.svg": "/coming-soon/static/media/github.baf48a32.svg",
-    "static/media/twitter.a50716dd.svg": "/coming-soon/static/media/twitter.a50716dd.svg"
+    "main.css": "/static/css/main.f2840619.chunk.css",
+    "main.js": "/static/js/main.b33319e6.chunk.js",
+    "main.js.map": "/static/js/main.b33319e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05172a96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05172a96.js.map",
+    "static/js/2.f10ab0e1.chunk.js": "/static/js/2.f10ab0e1.chunk.js",
+    "static/js/2.f10ab0e1.chunk.js.map": "/static/js/2.f10ab0e1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bac8179ac20ed77e2c7dd81a1f596b80.js": "/precache-manifest.bac8179ac20ed77e2c7dd81a1f596b80.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f2840619.chunk.css.map": "/static/css/main.f2840619.chunk.css.map",
+    "static/js/2.f10ab0e1.chunk.js.LICENSE.txt": "/static/js/2.f10ab0e1.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/github.baf48a32.svg": "/static/media/github.baf48a32.svg",
+    "static/media/twitter.a50716dd.svg": "/static/media/twitter.a50716dd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7af92772.js",
+    "static/js/runtime-main.05172a96.js",
     "static/js/2.f10ab0e1.chunk.js",
-    "static/css/main.ffd3f62c.chunk.css",
-    "static/js/main.bff69ce2.chunk.js"
+    "static/css/main.f2840619.chunk.css",
+    "static/js/main.b33319e6.chunk.js"
   ]
 }
