@@ -10,12 +10,9 @@ class App extends React.Component {
       <div className="card">
         <div className="header">
           <div className="logo">
-            <a href=".">LOGO</a>
+            <a href=".">Crazy Labs</a>
           </div>
           <div className="social">
-            <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
-              <IconFacebook className="icon" />
-            </a>
             <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
               <IconTwitter className="icon" />
             </a>
@@ -27,14 +24,12 @@ class App extends React.Component {
         <div className="content">
           <div className="title-holder">
             <h1>Get ready for the change.</h1>
-            <p>Website coming soon. Please check back to know more. Shoot us an email if you're curious.</p>
+            <p>You can’t stop web3. It’s ultimately code and code is just speech
+              <br></br>and speech is just ideas. You can’t stop ideas.</p>
           </div>
           <a href="mailto:user@example.com">
             <div className="cta">Send us an email</div>
           </a>
-        </div>
-        <div className="footer">
-          <span>made by <a className="underlined" href="https://github.com/arkn98" target="_blank" rel="noopener noreferrer">arkn98</a> using <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer">React</a> | <a className="underlined" href="https://github.com/arkn98/coming-soon" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
         </div>
       </div>
     );
