@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6344a3ed80c362a9ee9553c425621ac4",
+    "revision": "2c4feb8a4e1eca83e132505f5470f49d",
     "url": "/coming-soon/index.html"
   },
   {
-    "revision": "2ece1c5bdca890c7cd0f",
-    "url": "/coming-soon/static/css/main.d921e4f3.chunk.css"
+    "revision": "9bfad05d29139cbf0506",
+    "url": "/coming-soon/static/css/main.ffd3f62c.chunk.css"
   },
   {
     "revision": "294dc3ec72058be3b8ca",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coming-soon/static/js/2.f10ab0e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ece1c5bdca890c7cd0f",
-    "url": "/coming-soon/static/js/main.192dc006.chunk.js"
+    "revision": "9bfad05d29139cbf0506",
+    "url": "/coming-soon/static/js/main.bff69ce2.chunk.js"
   },
   {
     "revision": "7ac9359f873fa00efc04",
@@ -48,11 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coming-soon/static/media/IBMPlexSans-Regular.c02b4dc6.ttf"
   },
   {
-    "revision": "02591dd95fa9bb425c17f0a32bafe4b2",
-    "url": "/coming-soon/static/media/github.02591dd9.svg"
+    "revision": "baf48a32fd45986dfb5b52aada1b558a",
+    "url": "/coming-soon/static/media/github.baf48a32.svg"
   },
   {
-    "revision": "231d9578beed384d0095b382c458202e",
-    "url": "/coming-soon/static/media/twitter.231d9578.svg"
+    "revision": "a50716dd845ea43407a9a1bcffe42aef",
+    "url": "/coming-soon/static/media/twitter.a50716dd.svg"
   }
 ]);
