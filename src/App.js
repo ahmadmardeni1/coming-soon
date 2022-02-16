@@ -15,7 +15,7 @@ class App extends React.Component {
             <a href="https://twitter.com/Buildalized" title="Twitter" target="_blank" rel="noopener noreferrer">
               <IconTwitter className="icon" />
             </a>
-            <a href="https://github.com/arkn98/coming-soon" title="GitHub" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/BuildalizedLabs" title="GitHub" target="_blank" rel="noopener noreferrer">
               <IconGithub className="icon" />
             </a>
           </div>
