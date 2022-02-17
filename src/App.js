@@ -26,7 +26,7 @@ class App extends React.Component {
             <p>You can’t stop web3. It’s ultimately code and code is just speech
               <br></br>and speech is just ideas. You can’t stop ideas.</p>
           </div>
-          <a href="mailto:user@example.com">
+          <a href="mailto:contact@buildalized.com">
             <div className="cta">Send us an email</div>
           </a>
         </div>
